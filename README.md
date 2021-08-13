@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DmytroPetrenko
-- 👀 I’m interested in Vue JS Junior position
 - 🌱 I’m currently learning Vue JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram: @dmytropetrenko
